@@ -1,0 +1,23 @@
+{
+  "name": "khai-node-js-course",
+  "version": "1.0.0",
+  "description": "KHAI course repository - Oskorbina Mariia, group 147",
+  "homepage": "https://github.com/caxarrok/khai-node-js-course#readme",
+  "bugs": {
+    "url": "https://github.com/caxarrok/khai-node-js-course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://caxarrok@github.com/caxarrok/khai-node-js-course.git"
+  },
+  "license": "ISC",
+  "author": "Mariia Oskorbina",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
